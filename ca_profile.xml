@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<CommunityApplications>
+  <Profile>QuestarrNG is a standalone PC game discovery and acquisition manager with IGDB metadata, download client support, and optional SeerrNG integration.</Profile>
+  <Icon>https://raw.githubusercontent.com/snapetech/QuestarrNG/main/images/Questarr_icon.png</Icon>
+  <WebPage>https://github.com/snapetech/questarrng-unraid</WebPage>
+  <Forum>https://github.com/snapetech/QuestarrNG/issues</Forum>
+</CommunityApplications>
