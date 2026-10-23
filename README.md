@@ -20,7 +20,7 @@ source. Run Validate and Scan in the portal before submitting.
 ## Manual installation
 
 Use the [QuestarrNG template XML](templates/questarrng.xml) with Unraid's Docker
-template workflow. It installs `ghcr.io/snapetech-org/questarrng:latest` and
+template workflow. It installs `ghcr.io/snapetech-org/questarrng:main` and
 configures persistent appdata, a game library, and downloads.
 
 - Web UI: port `5000`
